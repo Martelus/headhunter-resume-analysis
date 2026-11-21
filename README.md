@@ -11,6 +11,4 @@
 
 1. Скачайте `dst-3.0_16_1_hh_database.csv` из [папки на Google Диске](https://drive.google.com/drive/folders/1DAEm9VTn974vaUbc2A3ALhKm27Z8wjaJ?usp=drive_link).
 2. Положите этот CSV рядом с ноутбуком и `ExchangeRates.csv`, который уже есть в репозитории.
-3. При необходимости установите зависимости: `pip install "pandas>=2.0" numpy "plotly>=6.0"`. Откройте ноутбук в Jupyter и выполните все ячейки сверху вниз.
-
-Ноутбук читает данные только локально и при запуске сохраняет графики в папку `graphs` через `fig.write_html()`.
+3. Откройте ноутбук в Jupyter и выполните все ячейки сверху вниз.
